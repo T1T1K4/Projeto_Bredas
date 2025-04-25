@@ -1,5 +1,5 @@
-## Projeto_Bredas
-# Utilizamos o tailwindcss para fazer uma apresentação sobre o Projeto que nos foi feito pela Bredas.
+# Projeto_Bredas
+## Utilizamos o tailwindcss para fazer uma apresentação sobre o Projeto que nos foi feito pela Bredas.
 
 ## Oque usamos:
 - HTML: Estrutura do código
